@@ -5,9 +5,9 @@
 #  include onyx
 class onyx {
 
-  package { 'Onyx-2.7.3':
+  package { 'Onyx-2.8.2':
     provider => 'appdmg',
-    source   => 'https://dl.dropboxusercontent.com/s/vlzwuchby97e6t7/OnyX-2.7.3.dmg',
+    source   => 'https://www.macupdate.com/download/11582/OnyX.dmg',
   }
 
 }
